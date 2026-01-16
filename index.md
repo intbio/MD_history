@@ -16,5 +16,6 @@
 
 # Исторические статьи
 1. [Статья к юбилею журнала Высокомолекулярные соединения, 2009](https://link.springer.com/article/10.1134/S0965545X09010052)
+2. [Обзор П.Г. Халатура по МД полимеров](https://www.semanticscholar.org/paper/Molecular-Dynamics-Simulations-in-Polymer-Science%3A-Khalatur/c377ec8d294d9f3d9830e4518245b8d2cbdf4d53)
 
 
