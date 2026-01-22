@@ -14,9 +14,11 @@
 - [На платформе ВК](https://vk.com/video-200790353_456239062?list=ln-eoebiDSz2nNzUi7X9E)
 - [YouTube](https://youtu.be/IYh7aM80gPM)
 
-# Исторические статьи
+# Статьи и обзоры про историю МД
 1. [Статья к юбилею журнала Высокомолекулярные соединения, 2009](https://link.springer.com/article/10.1134/S0965545X09010052)
 2. [Обзор П.Г. Халатура по МД полимеров](https://www.semanticscholar.org/paper/Molecular-Dynamics-Simulations-in-Polymer-Science%3A-Khalatur/c377ec8d294d9f3d9830e4518245b8d2cbdf4d53)
+3. [Статья Г.Г. Маленкова](https://github.com/intbio/MD_history/blob/main/papers/grivtsov.pdf)
+4. [Фрагмент из книги А.Г. Гривцова "Метод молекулярной динамики в физической химии", статья "А.Г. Гривцов и молекулярная динамика - начало"](https://github.com/intbio/MD_history/blob/main/papers/%D0%A8%D0%BD%D0%BE%D0%BB%D1%8C%D0%AD%D0%AD-%D0%93%D1%80%D0%B8%D0%B2%D1%86%D0%BE%D0%B2_%D0%9C%D0%94-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE.pdf)
 
 # Основные работы по моделированию в СССР
 
