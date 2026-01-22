@@ -10,7 +10,7 @@
 - [На платформе ВК](https://vk.com/video-200790353_456239061?list=ln-JfW7wHSVp8Gx6NzDTJ)
 - [YouTube](https://youtu.be/YTtkc-WqbvU)
 
-# Видео динамики тетрапептида, 1984 год
+# Видео динамики тетрапептида, 1985 год
 - [На платформе ВК](https://vk.com/video-200790353_456239062?list=ln-eoebiDSz2nNzUi7X9E)
 - [YouTube](https://youtu.be/IYh7aM80gPM)
 
