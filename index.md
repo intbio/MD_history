@@ -14,13 +14,17 @@
 - [На платформе ВК](https://vk.com/video-200790353_456239062?list=ln-eoebiDSz2nNzUi7X9E)
 - [YouTube](https://youtu.be/IYh7aM80gPM)
 
-# Статьи и обзоры про историю МД
+# Книги, статьи и обзоры про историю МД
 1. [Статья к юбилею журнала Высокомолекулярные соединения, 2009](https://link.springer.com/article/10.1134/S0965545X09010052)
 2. [Обзор П.Г. Халатура по МД полимеров](https://www.semanticscholar.org/paper/Molecular-Dynamics-Simulations-in-Polymer-Science%3A-Khalatur/c377ec8d294d9f3d9830e4518245b8d2cbdf4d53)
 3. [Статья Г.Г. Маленкова](https://github.com/intbio/MD_history/blob/main/papers/grivtsov.pdf)
 4. [Фрагмент из книги А.Г. Гривцова "Метод молекулярной динамики в физической химии", статья "А.Г. Гривцов и молекулярная динамика - начало"](https://github.com/intbio/MD_history/blob/main/papers/%D0%A8%D0%BD%D0%BE%D0%BB%D1%8C%D0%AD%D0%AD-%D0%93%D1%80%D0%B8%D0%B2%D1%86%D0%BE%D0%B2_%D0%9C%D0%94-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE.pdf)
+5. [Книга "От биоинженерии к инженерной биологии", 2025](https://github.com/intbio/MD_history/blob/main/papers/bioeng25_MD.pdf)
 
 # Основные работы по моделированию в СССР
+
+## Книги
+1. [А.Г. Гривцов "Методы молекулярной динамики в физической химии", 1996](https://github.com/intbio/MD_history/blob/main/papers/1996_metod_molekulyarnoy_dinamiki_v_fizicheskoy_h.pdf)
 
 ## Труды из сборников Докладов АН СССР
 1. [А.Г. Гривцов "О структурировании жидкостей у поверхностей твердого тела", 1970](https://github.com/intbio/MD_history/blob/main/papers/%D0%93%D1%80%D0%B8%D0%B2%D1%86%D0%BE%D0%B2%201970%20%D0%9E%20%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20%D0%B6%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D1%83%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B5%D0%BB%D0%B0.PDF)
@@ -39,4 +43,6 @@
 1. [Н.Б. Ульянов, В.Б. Журкин "Изучение гибкости комплементарных динуклеозидфосфатов методом Монте-Карло", 1982](https://github.com/intbio/MD_history/blob/main/papers/1982_%D0%9D%D0%91_%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2_%D0%92%D0%91_%D0%96%D1%83%D1%80%D0%BA%D0%B8%D0%BD.pdf)
 2. [Н.К. Балабаев, А.С. Лемак, К.В. Шайтан "Молекулярная динамика и электронно-конформационные взаимодействия в ферредоксине", 1996](https://github.com/intbio/MD_history/blob/main/papers/1996%D0%9C%D0%BE%D0%BB%D0%91%D0%B8%D0%BE%D0%BB_30_6_1348-1356.pdf)
 
+## Диссертации
+1. [Афтореферат А.Ю. Кузьминова "Молекулярная динамика ряда тетрапептидов и их равновесные структуры", 1986](https://github.com/intbio/MD_history/blob/main/papers/Kuzminov_A_Yu_Avtoreferat.pdf)
 
